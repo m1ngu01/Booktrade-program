@@ -1,0 +1,81 @@
+﻿  cak.c
+C:\Users\USER\source\repos\booktrader - backup\booktrader\cak.c(63,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  file.c
+  ui.c
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(48,38): warning C4047: '=': 'DWORD'의 간접 참조 수준이 'HANDLE'과(와) 다릅니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(49,17): warning C4022: 'GetConsoleMode': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(50,17): warning C4022: 'SetConsoleMode': 실제 매개 변수 1의 포인터가 일치하지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(103,27): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(147,27): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(573,5): warning C4013: 'insert_book_turple'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(526,13): warning C4047: '초기화 중': 'int'의 간접 참조 수준이 'char [1]'과(와) 다릅니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(786,10): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(787,60): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(801,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(802,62): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(804,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(805,48): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(821,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(822,62): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(827,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(828,62): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(996,5): warning C4013: 'user_data_check_id'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1047,13): warning C4098: 'trade_section': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1069,6): warning C4013: 'trade_section_ok'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1073,51): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[20]'과(와) 다릅니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1073,43): warning C4024: 'print_book_list_t': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1090,51): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[20]'과(와) 다릅니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1090,43): warning C4024: 'print_book_list_t': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1100,50): warning C4047: '함수': 'const char *'의 간접 참조 수준이 'char (*)[20]'과(와) 다릅니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1100,42): warning C4024: 'print_book_list_t': 형식 및 실제 매개 변수 4의 형식이 서로 다릅니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1190,13): warning C4098: 'sell_section_puton_book': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1200,12): warning C4098: 'sell_section_puton_book': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1192,3): warning C4102: 'defalut': 참조되지 않은 레이블입니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1272,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1273,29): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1275,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1276,48): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1289,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1290,29): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1296,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1297,29): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1329,11): warning C4133: '함수': 'int [3]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1330,12): warning C4098: 'sell_section': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1335,10): warning C4133: '함수': 'int [3]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1421,4): warning C4013: 'insert_trade_turple'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1422,12): warning C4098: 'buy_section_yesno': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1427,12): warning C4098: 'buy_section_yesno': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1501,10): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1502,60): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1525,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1526,62): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1528,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1529,48): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1542,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1543,62): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1549,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1550,62): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1566,62): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1574,4): warning C4013: 'buy_section_search'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1576,12): warning C4133: '함수': 'int [3]'과(와) 'char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1577,62): warning C4133: '함수': 'int [3]'과(와) 'const char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1585,12): warning C4098: 'buy_section': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1590,10): warning C4133: '함수': 'int [3]'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1626,8): warning C4013: 'user_data_check_idpwd'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1681,61): warning C4098: 'login_func': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1708,10): warning C4013: 'check_duplication_id'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1708,70): warning C4013: 'check_secial_word_in_password'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1751,61): warning C4098: 'create_id': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1773,4): warning C4013: 'insertUserTuple'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1774,12): warning C4098: 'create_id': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1818,61): warning C4098: 'create_id': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1892,12): warning C4098: 'edit_password': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1951,12): warning C4098: 'edit_password': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1973,5): warning C4013: 'user_data_edit_pwd'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(1974,13): warning C4098: 'edit_password': 'void' 함수에서 값을 반환하고 있습니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\ui.c(2005,12): warning C4098: 'edit_password': 'void' 함수에서 값을 반환하고 있습니다.
+  main.c
+C:\Users\USER\source\repos\booktrader - backup\booktrader\main.c(10,2): warning C4013: 'systemafter'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\source\repos\booktrader - backup\booktrader\main.c(16,2): warning C4013: 'loginStream'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  코드를 생성하고 있습니다...
+  booktrader.vcxproj -> C:\Users\USER\source\repos\booktrader - backup\x64\Debug\booktrader.exe
